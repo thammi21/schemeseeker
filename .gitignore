@@ -1,0 +1,7 @@
+venv/
+.env
+data/hf_cache/
+vectorstore/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml                                                                                                                 

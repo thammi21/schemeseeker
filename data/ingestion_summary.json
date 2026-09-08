@@ -1,0 +1,9 @@
+{
+  "dataset": "satyajitdas/bharatschemes-v1",
+  "records_loaded": 2029,
+  "documents": 2029,
+  "chunks": 12410,
+  "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+  "chunk_size": 800,
+  "chunk_overlap": 100
+}
