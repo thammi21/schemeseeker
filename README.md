@@ -2,8 +2,8 @@
 
 An AI-powered RAG system that helps Indian citizens discover government 
 welfare schemes they are eligible for — in Hindi and English.
-
-🔴 **[Live Demo →](https://schemeseeker.streamlit.app)**
+ 
+🔴 **[Live Demo →](https://schemeseeker.streamlit.app/)**
 > ⚠️ First load takes 8–10 minutes to build the scheme database. Subsequent loads are instant.
 
 ---
